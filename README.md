@@ -44,8 +44,10 @@ I am also eager to try my hand at mountain biking in the near future.
 - Wildfire Prediction: Developed a model to detect and recognize wildfires in real-time and by image upload.
 - API Testing at Zenseact: As an intern, tested the APIs used by the company for correct and secure functioning.
 - AIops analysis at Zenseact: Analyzed internal tools used by Zenseact for AI development, identifying areas for improvement
-``´
+```
+
 ### Skills 
+
 ```
 Programming Language: Python
 
