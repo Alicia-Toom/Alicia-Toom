@@ -2,7 +2,7 @@
 
 I am a student at Teknikhögskolan (until May 2023) in Gothenburg, Sweden, studying to become a Python developer with a focus on AI/Machine learning and Deep learning. I have gained hands-on experience through an internship with Zenseact, an autonomous driving company, and I also volunteer as a code mentor at Pink Programming, a non-profit organization.
 
-I have a Certified Scrum Master who has a strong skill set in Agile software development, and I am a quick learner who is able to adapt to new teams. I am fluent in Swedish, English, Thai, Cambodia, and Lao, and I am passionate about learning and helping others. With a start-up mindset and a focus on data-driven decision making, I am eager to continue advancing my skills in the field of machine learning and deep learning.
+As a Certified Scrum Master, I bring strong Agile software development skills to the table and possess the ability to quickly adapt to new teams. Fluent in Swedish, English, Thai, Cambodian, and Lao, my passion for learning and helping others drives me. With a start-up mentality and a focus on data-driven decision making, I am eager to further my expertise in the exciting fields of machine learning and deep learning.
 
 
 🔭 I’m currently working on helping Zenseact to analyst their internal monitoring system using AIOps approch.
