@@ -32,23 +32,20 @@ I have a strong skill set in Agile software development, and I am a quick learne
 
 ⚡ Fun fact: I enjoy hiking and exploring new outdoor adventures in my free time. Looking forward to try moutain bike.
 
+
+##Skills 
+
 #### Programming Language: 
 Python
-
 #### Tools and Framework: 
 Pandas, NumPy, Visual Studio Code, Pycharm
-
 #### Operating System:
 Linux, Window, MAC
-
 #### Database:
 MySQL, MongoDB, SQL
-
 #### Machine learning and Deep learning libraries:
 Keras, Tensorflow, Pytorch, scikit-learn
-
 #### Artificial Intelligence (AI) area:
 Machine Learning, Deep Learning, Deep Reinforcement Learning, Natural Language Processing (NLP), Deep Neural Networks (DNN)
-
 #### developement:
 Web Development, Web Design, System Deployment
