@@ -33,7 +33,7 @@ I have a strong skill set in Agile software development, and I am a quick learne
 ⚡ Fun fact: I enjoy hiking and exploring new outdoor adventures in my free time. Looking forward to try moutain bike.
 
 
-##Skills 
+### Skills 
 
 #### Programming Language: 
 Python
