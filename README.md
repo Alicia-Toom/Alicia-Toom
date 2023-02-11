@@ -37,12 +37,19 @@ I am also eager to try my hand at mountain biking in the near future.
 ### Some of the projects I have worked on
 ```
 - Stock price prediction: Used linear regression to predict Tesla stock prices based on past data.
+
 - Medical Chatbot: Developed a chatbot to assist patients with medical information.
+
 - Web Development in Python: Created a book library with search and review features.
+
 - Car Parts Data Set Analysis: Analyzed a dataset of car parts information using MySQL.
+
 - Prediction of Breast Cancer and Diabetes: Used machine learning algorithms to predict the likelihood of patients developing breast cancer or diabetes.
+
 - Wildfire Prediction: Developed a model to detect and recognize wildfires in real-time and by image upload.
+
 - API Testing at Zenseact: As an intern, tested the APIs used by the company for correct and secure functioning.
+
 - AIops analysis at Zenseact: Analyzed internal tools used by Zenseact for AI development, identifying areas for improvement
 ```
 
