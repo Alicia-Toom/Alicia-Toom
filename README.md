@@ -6,15 +6,19 @@ I have a strong skill set in Agile software development, and I am a quick learne
 
 
 🔭 I’m currently working on helping Zenseact to analyst their internal monitoring system using AIOps approch.
+
 🌱 I’m currently learning: 
       - deel pearning
       - computer vision
       - TinyML
+      
 👯 I’m looking to collaborate:
         - AIOps projects, Machine Learning applications in the field of monitoring and analysis
+   
 🤔 I’m looking for help with: 
         - Optimizing my deep learning models for real-time analysis
         - Exploring new techniques for analysis and visualization of monitoring data
+    
 💬 Ask me about:
       - AIOps
       - Machine Learning in monitoring systems
