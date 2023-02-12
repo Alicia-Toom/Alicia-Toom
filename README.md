@@ -9,7 +9,7 @@ As a Certified Scrum Master, I bring strong Agile software development skills to
       - Helping Zenseact to analyst their internal monitoring system using AIOps approch.
 
 🌱 I’m currently learning: 
-      - deel learning
+      - deep learning
       - computer vision
       - TinyML
       
